@@ -1,0 +1,16 @@
+/zomato/app-small https://blog.zomato.com/our-android-app-has-been-eating-but-shedding-weight 301
+
+# Redirect from old URL to new URL
+# /old-url /new-url 301
+
+# Redirect with query parameters
+# /old-page?param=value /new-page?param=value 301
+
+# Redirect with wildcards
+# /old-directory/* /new-directory/:splat 301
+
+# Redirect to external URL
+# /external-url https://example.com 301
+
+# Redirect to a different domain
+# /old-domain/* https://new-domain.com/:splat 301

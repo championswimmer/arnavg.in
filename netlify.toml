@@ -1,0 +1,6 @@
+# netlify.toml
+
+# Build settings
+[build]
+  command = "echo 'nothing to build'" 
+  publish = "public" 
