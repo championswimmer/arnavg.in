@@ -8,6 +8,7 @@
 /sclr/forever https://www.scaler.com/blog/scaler-academy-launches-forever-a-lifelong-career-accelerator-program/ 301
 /z/app-small https://blog.zomato.com/our-android-app-has-been-eating-but-shedding-weight 301
 /z/build-time https://blog.zomato.com/how-we-cut-the-build-time-for-our-android-app-by-95 301 
+/fb/buffer https://engineering.fb.com/2020/09/08/data-center-engineering/fault-tolerance-through-optimal-workload-placement/ 301
 
 
 # Redirect from old URL to new URL
